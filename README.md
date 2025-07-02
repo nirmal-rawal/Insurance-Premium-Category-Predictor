@@ -40,5 +40,5 @@ A machine learning application that predicts insurance premium categories (Low/M
 ### Using Docker (Recommended)
 
 ```bash
-docker pull [YOUR_DOCKERHUB_USERNAME]/insurance-premium-predictor:latest
-docker run -p 8501:8501 [YOUR_DOCKERHUB_USERNAME]/insurance-premium-predictor
+docker pull [YOUR_DOCKERHUB_USERNAME]/insurance_predictor:latest
+docker run -p 8501:8501 [YOUR_DOCKERHUB_USERNAME]/insurance_predictor
